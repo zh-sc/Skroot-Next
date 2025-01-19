@@ -3,7 +3,7 @@
 <h1 align="center">Skroot-Next</h1>
 
 [![Latest Release](https://img.shields.io/github/v/release/zh-sc/Skroot-Next?label=Release&logo=github)](https://github.com/zh-sc/Skroot-Next/releases/latest)
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/APatchGroup)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/Skroot_Next)
 
 </div>
 
