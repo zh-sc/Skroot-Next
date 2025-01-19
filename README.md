@@ -6,7 +6,8 @@
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/Skroot_Next)
 
 </div>
-##介绍
+
+## 介绍
 ## SKRoot-Next - Super Kernel Root
 - 全网无root检测手段，跟面具完全不同思路.
 
