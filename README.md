@@ -15,10 +15,7 @@
 - 全程不需要暂停SELinux，实现真正的SELinux  0%触碰.
 - 通用性强，通杀所有内核，不需要内核源码
 - 直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
-
-Android 内核和 Android 系统的打补丁。
-
-
+- Android Linux内核 Android 系统补丁。
 - Skroot-Next依赖于 [Skroot](https://github.com/bmax121/KernelPatch/).
 - Skroot UI 和 APModule 源代码是从 KernelSU 和Skroot 参考和修改的。
 -  [KernelSU](https://github.com/tiann/KernelSU).[Skroot](https://github.com/abcz316/SKRoot-linuxKernelRoot)
