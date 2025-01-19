@@ -6,7 +6,7 @@
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/Skroot_Next)
 
 </div>
-
+##介绍
 ## SKRoot-Next - Super Kernel Root
 - 全网无root检测手段，跟面具完全不同思路.
 
@@ -38,7 +38,8 @@ Android 内核和 Android 系统的打补丁。
 
 - 密钥保护它们不被暴露以维护设备的安全性至关重要。
 
-
+## 下载
+[Github](https://github.com/zh-sc/Skroot-Next) 
 
 ## Get Help | 获得帮助
 
@@ -59,7 +60,7 @@ Android 内核和 Android 系统的打补丁。
 
 ## 学习
 
-- [KernelPatch](https://github.com/bmax121/KernelPatch/): 参考核心
+- [KernelPatch](https://github.com/abcz316/SKRoot-linuxKernelRoot): 参考核心
 - [Magisk](https://github.com/topjohnwu/Magisk): 参考自动化修订boot脚本
 - [KernelSU](https://github.com/tiann/KernelSU): 参考App UI 和Linux内核之类的支持
 - [APatch](https://github.com/bmax121/APatch):参考su运作方式
