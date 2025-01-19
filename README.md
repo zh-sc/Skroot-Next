@@ -23,12 +23,12 @@
 ## 支持版本
 仅支持 ARM64 架构。
 
-仅支持 Android 内核版本 4.6 - 6.1
+仅支持 Android 内核版本 3.x - 6.1
 ## 要求
 
 内核配置:
 
-- `Linux4.6 ~ 6.1`完全支持
+- `所有Android Linux 内核配置都完全支持
 
 ## 危险警告
 
@@ -42,8 +42,8 @@
 ## Get Help | 获得帮助
 
 ### 用法
--请记住48位密钥，这是你的唯一凭证
-
+- 请记住48位密钥，这是你的唯一凭证
+- 可以去看skroot[文献内容](https://github.com/abcz316/SKRoot-linuxKernelRoot/blob/master/README.md)
 ### 更新
 
 - Telegram Channel | 官方电报: [@Skroot-next](https://t.me/Skroot_Next)
@@ -54,7 +54,7 @@
 
 ### 更多内容
 
-- [查看](docs/)
+- [查看](https://github.com/abcz316/SKRoot-linuxKernelRoot/blob/master/README.md)
 
 ## 学习
 
